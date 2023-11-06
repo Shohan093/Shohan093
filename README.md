@@ -19,7 +19,7 @@
 [<img src="https://img.shields.io/badge/Shohan06-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://codeforces.com/profile/Shohan06) 
 
 ## Mt GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shohan093&show_icons=true&locale=en&layout=compact" alt="Shohan093" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shohan093&theme=dark&layout=compact&align=right&width=40%)](https://github.com/Shohan093/github-readme-stats)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shohan093&show_icons=true&locale=en" alt="Shohan093" /></p>
 
