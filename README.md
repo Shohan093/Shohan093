@@ -23,7 +23,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shohan093&show_icons=true&locale=en" alt="Shohan093" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shohan093&" alt="Shohan093" /></p>
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shohan093&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shohan093&label=Profile%20views&color=0e75b6&style=flat" alt="Shohan093" /> </p>
 
