@@ -12,6 +12,7 @@
 ## My Stacks
 ### Languages: C | C++ | Python | FORTRAN |
 ### Developer Tools: MATLAB | Linux | Git | Jupyter Notebook |
+### Web Development: HTML | CSS
 
 ## My Handles
 [<img src="https://img.shields.io/badge/Anisujjaman Shohan-151515?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/anisujjaman-shohan/)
