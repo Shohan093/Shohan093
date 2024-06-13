@@ -1,6 +1,5 @@
 ## About me
-- Working on Numerical Solutions of Differential Equations
-- Learning algorithms everyday
+- Learning algorithms every day
 
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/anisujjaman-shohan/)
@@ -10,7 +9,7 @@
 
 
 ## My Stacks
-### Languages: C | C++ | Python | FORTRAN |
+### Languages: C | C++ | Python | FORTRAN | JavaScript |
 ### Developer Tools: MATLAB | Linux | Git | Jupyter Notebook |
 ### Web Development: HTML | CSS |
 
