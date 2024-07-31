@@ -9,14 +9,16 @@
 
 
 ## My Stacks
-### Languages: C | C++ | Python | FORTRAN | JavaScript |
+### Languages: C | C++ | Python | FORTRAN |
 ### Developer Tools: MATLAB | Linux | Git | Jupyter Notebook |
 ### Web Development: HTML | CSS |
+### Data Visualization Libraries: numpy | matplotlib | scipy | seaborn | pandas |
 
 ## My Handles
 [<img src="https://img.shields.io/badge/Anisujjaman Shohan-151515?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/anisujjaman-shohan/)
 [<img src="https://img.shields.io/badge/Shohan093-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://profile-summary-for-github.com/user/Shohan093) 
 [<img src="https://img.shields.io/badge/Shohan06-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://codeforces.com/profile/Shohan06) 
+[<img src="https://img.shields.io/badge/Shohan06-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://leetcode.com/u/Shohan06/)
 
 ## Mt GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shohan093&theme=dark&layout=compact&align=right&width=40%)](https://github.com/Shohan093/github-readme-stats)
