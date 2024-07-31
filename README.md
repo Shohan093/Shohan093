@@ -12,7 +12,7 @@
 ### Languages: C | C++ | Python | FORTRAN |
 ### Developer Tools: MATLAB | Linux | Git | Jupyter Notebook |
 ### Web Development: HTML | CSS |
-### Data Visualization Libraries: numpy | matplotlib | scipy | seaborn | pandas |
+### Data Visualization Libraries: numpy | matplotlib | seaborn | pandas |
 
 ## My Handles
 [<img src="https://img.shields.io/badge/Anisujjaman Shohan-151515?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/anisujjaman-shohan/)
