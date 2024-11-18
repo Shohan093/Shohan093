@@ -5,14 +5,16 @@
 - [LinkedIn](https://www.linkedin.com/in/anisujjaman-shohan/)
 - [FaceBook](https://www.facebook.com/anisujjaman.shohan)
 - [Research Gate](https://www.researchgate.net/profile/Md-Anisujjaman)
-- For any kind of queries, drop an email at anisujjamanshohan093@gmail.com
+- For any queries, drop an email at anisujjamanshohan093@gmail.com
 
 
 ## My Stacks
 ### Languages: C | C++ | Python | FORTRAN |
-### Developer Tools: MATLAB | Linux | Git | Jupyter Notebook |
+### Tools: MATLAB | Linux | Git | Jupyter Notebook |
 ### Web Development: HTML | CSS |
-### Data Visualization Libraries: numpy | matplotlib | seaborn | pandas |
+### Python libraries: Scipy | Numpy
+### Data Visualization and manipulation: matplotlib | seaborn | pandas |
+### Machine Learning libraries: Scikit-learn | Pytorch | Tensorflow |
 
 ## My Handles
 [<img src="https://img.shields.io/badge/Anisujjaman Shohan-151515?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/anisujjaman-shohan/)
