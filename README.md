@@ -12,8 +12,8 @@
 ### Languages: C | C++ | Python | FORTRAN |
 ### Tools: MATLAB | Linux | Git | Jupyter Notebook |
 ### Web Development: HTML | CSS |
-### Python libraries: Scipy | Numpy
-### Data Visualization and manipulation: matplotlib | seaborn | pandas |
+### Python libraries: Scipy | Numpy |
+### Data Visualization and manipulation: Matplotlib | Seaborn | Pandas |
 ### Machine Learning libraries: Scikit-learn | Pytorch | Tensorflow |
 
 ## My Handles
@@ -27,7 +27,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shohan093&show_icons=true&locale=en" alt="Shohan093" /></p>
 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shohan093&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Shohan093&theme=dark)](https://git.io/streak-stats)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shohan093&label=Profile%20views&color=0e75b6&style=flat" alt="Shohan093" /> </p>
 
