@@ -27,7 +27,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shohan093&show_icons=true&locale=en" alt="Shohan093" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Shohan093&theme=dark)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Shohan093&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shohan093&label=Profile%20views&color=0e75b6&style=flat" alt="Shohan093" /> </p>
 
