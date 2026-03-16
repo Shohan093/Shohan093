@@ -9,17 +9,19 @@
 
 
 ## My Stacks
-### Languages: C | C++ | Python | FORTRAN |
-### Tools: MATLAB | Linux | Git | Jupyter Notebook |
-### Web Development: HTML | CSS |
-### Python libraries: Scipy | Numpy |
-### Data Visualization and manipulation: Matplotlib | Seaborn | Pandas |
-### Machine Learning libraries: Scikit-learn | Pytorch | Tensorflow |
+#### Languages: C | C++ | Python | FORTRAN |
+#### Database: MySQL | PostgreSQL |
+#### Tools: MATLAB | Linux | Git | GenAI | Hugging Face | PowerBI | PostGIS |
+#### Web: HTML | CSS |
+#### Python libraries: Scipy | Numpy | Selenium | NLTK | Statsmodels |
+#### Data Visualization and Manipulation: Matplotlib | Seaborn | Pandas | Plotly | Geopandas |
+#### Machine Learning libraries: Scikit-learn | Pytorch | Tensorflow |
+#### Others: Statistical Data Analysis | Time-series Analysis | Hypothesis Testing |
 
 ## My Handles
 [<img src="https://img.shields.io/badge/Anisujjaman Shohan-151515?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/anisujjaman-shohan/)
 [<img src="https://img.shields.io/badge/Shohan093-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://profile-summary-for-github.com/user/Shohan093) 
-[<img src="https://img.shields.io/badge/Shohan06-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://codeforces.com/profile/Shohan06) 
+[<img src="https://img.shields.io/badge/Shohan06-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://codeforces.com/profile/samael06) 
 [<img src="https://img.shields.io/badge/Shohan06-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://leetcode.com/u/Shohan06/)
 
 ## Mt GitHub Stats
