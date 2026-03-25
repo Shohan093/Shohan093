@@ -1,35 +1,20 @@
-## About me
-- Learning algorithms every day
-
-## Connect with me
-- [LinkedIn](https://www.linkedin.com/in/anisujjaman-shohan/)
-- [FaceBook](https://www.facebook.com/anisujjaman.shohan)
-- [Research Gate](https://www.researchgate.net/profile/Md-Anisujjaman)
-- For any queries, drop an email at anisujjamanshohan093@gmail.com
+# 💫 About Me:
+I work at the intersection of mathematics and data-driven intelligence, where rigorous structure emerges from uncertainty and noise. With a strong foundation in pure and applied mathematics from my undergraduate studies, I am now pursuing a Master's in Data Science to deepen my expertise in probabilistic modeling, machine learning, and the geometric underpinnings of algorithms.<br><br>My interests lie in how we can formally represent learning, language, and distributed systems, always striving for models that are explicit about their uncertainty, transparent about their assumptions, and honest about their limitations. I am drawn to the elegant pursuit of understanding, forever approaching, yet never fully reaching its asymptotic limit:
+<br><br>$$\lim_{n \to \infty} \text{understanding}(n)$$<br><br>Keep learning, and continue minimizing expected loss. 🤖
 
 
-## My Stacks
-#### Languages: C | C++ | Python | FORTRAN |
-#### Database: MySQL | PostgreSQL |
-#### Tools: MATLAB | Linux | Git | GenAI | Hugging Face | PowerBI | PostGIS |
-#### Web: HTML | CSS |
-#### Python libraries: Scipy | Numpy | Selenium | NLTK | Statsmodels |
-#### Data Visualization and Manipulation: Matplotlib | Seaborn | Pandas | Plotly | Geopandas |
-#### Machine Learning libraries: Scikit-learn | Pytorch | Tensorflow |
-#### Others: Statistical Data Analysis | Time-series Analysis | Hypothesis Testing |
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/anisujjaman.shohan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shohan.zip) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anisujjaman-shohan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AnisujjamanSho1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anisujjamanshohan093@gmail.com) 
 
-## My Handles
-[<img src="https://img.shields.io/badge/Anisujjaman Shohan-151515?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/anisujjaman-shohan/)
-[<img src="https://img.shields.io/badge/Shohan093-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://profile-summary-for-github.com/user/Shohan093) 
-[<img src="https://img.shields.io/badge/Shohan06-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://codeforces.com/profile/samael06) 
-[<img src="https://img.shields.io/badge/Shohan06-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://leetcode.com/u/Shohan06/)
+---
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=plastic&logo=fortran&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=plastic&logo=streamlit&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=plastic&logo=cmake&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=plastic&logo=elasticsearch) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=plastic&logo=selenium&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=plastic&logo=playwright&logoColor=white)
 
-## Mt GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shohan093&theme=dark&layout=compact&align=right&width=40%)](https://github.com/Shohan093/github-readme-stats)
+---
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Shohan093&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shohan093&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
+![](https://streak-stats.demolab.com?user=Shohan093&theme=dark&hide_border=true)<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shohan093&show_icons=true&locale=en" alt="Shohan093" /></p>
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Shohan093&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shohan093&label=Profile%20views&color=0e75b6&style=flat" alt="Shohan093" /> </p>
-
+---
+![](https://komarev.com/ghpvc/?username=Shohan093&label=Profile%20views&color=0e75b6&style=flat)
